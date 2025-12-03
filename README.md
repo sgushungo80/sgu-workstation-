@@ -1,2 +1,2 @@
-# sgu-workstation-
-Sgu Workstation Online Hub
+exodus-genesis
+ description :sovereign, Nix-based autonomous infrastructure systems. 
